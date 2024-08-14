@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blazor_application-main",
+    "\\blazor_application-main\\blazor_application",
+    "\\blazor_application-main\\blazor_application\\blazor_app",
+    "\\blazor_application-main\\blazor_application\\blazor_app\\blazor_app",
+    "\\blazor_application-main\\blazor_application\\blazor_app\\blazor_app\\wwwroot"
+  ],
+  "SelectedNode": "\\blazor_application-main\\blazor_application\\blazor_app\\blazor_app\\wwwroot\\styles.css",
+  "PreviewInSolutionExplorer": false
+}
